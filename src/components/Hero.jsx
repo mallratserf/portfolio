@@ -10,7 +10,7 @@ const Hero = () => {
                 animate = {{y: 0, opacity: 1}}
                 transition= {{duration: 0.3, delay:0.2}}
             >
-              <img src={pfp} alt="" className="mt-12 h-[350px] w-[350px] cursor-pointer rounded-3xl shadow-xl shadow-neutral-400 transition-all duration-200 hover:-translate-y-5 hover:scale-105 hover:shadow-2xl hover:shadow-neutral-300 md:w-[350px] md:h-[350px]"/>
+              <img src={pfp} alt="" className="mt-12 h-[350px] w-[350px] cursor-pointer rounded-3xl shadow-xl shadow-neutral-400 transition-all duration-200 hover:-translate-y-5 hover:scale-105 hover:shadow-2xl hover:shadow-neutral-300 md:w-[350px] md:h-[350px] sm:w-[200px]"/>
             </motion.div>
 
               <motion.div className="flex max-w-[600px] flex-col items-center justify-center text-center gap-3 "
