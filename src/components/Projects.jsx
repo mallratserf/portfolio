@@ -10,7 +10,7 @@ const projectData = [
   },
   {
     image: proj,
-    title: "to-do list",
+    title: "habit tracker",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius ipsum doloremque reiciendis debitis blanditiis",
     technologies: ["html"],
   },
